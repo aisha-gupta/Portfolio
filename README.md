@@ -14,4 +14,4 @@ This website highlights my journey, projects, and skills as an aspiring **Fronte
 - **JavaScript**  
 
 ## 🚀 Live Demo
-👉 [View Portfolio](https://your-username.github.io/portfolio)
+👉 [View Portfolio]( https://aisha-gupta.github.io/Portfolio/)
