@@ -138,6 +138,7 @@ body {
 }
 .chip {
   border: 0;
+  font-size: 15px;
   background: #171733;
   color: #bfa8ff;
   padding: 8px 14px;
